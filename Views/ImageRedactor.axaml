@@ -1,0 +1,103 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="using:ScanEditor.ViewModels"
+        mc:Ignorable="d"
+        x:Class="ScanEditor.Views.ImageRedactor"
+        x:DataType="vm:ImageRedactorViewModel"
+        Title="ImageRedactor"
+        Icon="/Assets/LogoScanEditor.ico"
+        Width="590" Height="310"
+        Background="{DynamicResource BaseColor}"
+        WindowStartupLocation="CenterScreen"
+        CanResize="False">
+    
+        <Window.Styles>
+                <StyleInclude Source="/Styles/BaseStyle.axaml"></StyleInclude>
+                <Style Selector="TextBlock.Custom">
+                        <Setter Property="FontSize" Value="12"/>
+                        <Setter Property="Margin" Value="0,0,0,-10"/>
+                </Style>
+                <Style Selector="Slider">
+                        <Setter Property="Width" Value="130"/>
+                        <Setter Property="Margin" Value="0,0,10,0"/>
+                </Style>
+                <Style Selector="TextBox">
+                        <Setter Property="Foreground" Value="White"/>
+                        <Setter Property="Width" Value="40"/>
+                        <Setter Property="Height" Value="30"/>
+                        <Setter Property="HorizontalContentAlignment" Value="Right"/>
+                        <Setter Property="Margin" Value="0,0,0,0"/>
+                </Style>
+                <Style Selector="NumericUpDown">
+                        <Setter Property="Width" Value="50"/>
+                        <Setter Property="Height" Value="30"/>
+                        <Setter Property="HorizontalContentAlignment" Value="Right"/>
+                        <Setter Property="VerticalContentAlignment" Value="Center"/>
+                        <Setter Property="ShowButtonSpinner" Value="False"/>
+                </Style>
+        </Window.Styles>
+        
+        <StackPanel Margin="15">
+                <StackPanel Orientation="Horizontal">
+                        <Border Classes="Custom" Width="300" Height="200" Margin="0,0,15,15" ClipToBounds="True">
+                                <Image Source="{Binding WrtBitmap}" Stretch="Uniform" 
+                                       PointerWheelChanged="Image_OnPointerWheelChanged" PointerPressed="Image_OnPointerPressed"
+                                       PointerMoved="Image_OnPointerMoved" PointerReleased="Image_OnPointerReleased">
+                                        <Image.RenderTransform>
+                                                <TransformGroup>
+                                                        <ScaleTransform ScaleX="{Binding ZoomLevel}" ScaleY="{Binding ZoomLevel}"/>
+                                                        <TranslateTransform X="{Binding OffsetX}" Y="{Binding OffsetY}"/>
+                                                </TransformGroup>
+                                        </Image.RenderTransform>
+                                </Image>
+                        </Border>
+                        <StackPanel>
+                                <TextBlock Classes="Custom"> Тон </TextBlock>
+                                <Grid ColumnDefinitions="*,*,*">
+                                        <Slider Grid.Column="0" ValueChanged="OnSliderValueChanged" x:Name="HueSlider" Value="{Binding Hue}" Minimum="-180" Maximum="180" TickFrequency="1" IsSnapToTickEnabled="True"/>
+                                        <NumericUpDown Grid.Column="1" Value="{Binding #HueSlider.Value}" ValueChanged="OnNumericUpDownValueChanged" Minimum="-180" Maximum="180" />
+                                        <Button Grid.Column="2" Classes="Custom" Width="30" Height="31"
+                                                Margin="5 0 0 0" Padding="0 6 0 0" BorderThickness="1"
+                                                Content="↺" Command="{Binding HueResetToDefaultButtonClicked}"/>
+                                </Grid>
+                                <TextBlock Classes="Custom"> Насыщенность </TextBlock>
+                                <Grid ColumnDefinitions="*,*,*">
+                                        <Slider Grid.Column="0" ValueChanged="OnSliderValueChanged" x:Name="SaturationSlider" Value="{Binding Saturation}" Minimum="-100" Maximum="100" TickFrequency="1" IsSnapToTickEnabled="True"/>
+                                        <NumericUpDown Grid.Column="1" Value="{Binding #SaturationSlider.Value}" ValueChanged="OnNumericUpDownValueChanged" Minimum="-100" Maximum="100"/>
+                                        <Button Grid.Column="2" Classes="Custom" Width="30" Height="31"
+                                                Margin="5 0 0 0" Padding="0 6 0 0"
+                                                Content="↺" Command="{Binding SaturationResetToDefaultButtonClicked}"/>
+                                </Grid>
+                                <TextBlock Classes="Custom"> Яркость </TextBlock>
+                                <Grid ColumnDefinitions="*,*,*">
+                                        <Slider Grid.Column="0" ValueChanged="OnSliderValueChanged" x:Name="BrightnessSlider" Value="{Binding Brightness}" Minimum="-100" Maximum="100" TickFrequency="1" IsSnapToTickEnabled="True"/>
+                                        <NumericUpDown Grid.Column="1" Value="{Binding #BrightnessSlider.Value}" ValueChanged="OnNumericUpDownValueChanged" Minimum="-100" Maximum="100"/>
+                                        <Button Grid.Column="2" Classes="Custom" Width="30" Height="31"
+                                                Margin="5 0 0 0" Padding="0 6 0 0"
+                                                Content="↺" Command="{Binding BrightnessResetToDefaultButtonClicked}"/>
+                                </Grid>
+                                <TextBlock Classes="Custom"> Контраст </TextBlock>
+                                <Grid ColumnDefinitions="*,*,*">
+                                        <Slider Grid.Column="0" ValueChanged="OnSliderValueChanged" x:Name="TContrastSlider" Value="{Binding Contrast}" Minimum="-100" Maximum="100" TickFrequency="1" IsSnapToTickEnabled="True"/>
+                                        <NumericUpDown Grid.Column="1" Value="{Binding #TContrastSlider.Value}" ValueChanged="OnNumericUpDownValueChanged" Minimum="-100" Maximum="100"/>
+                                        <Button Grid.Column="2" Classes="Custom" Width="30" Height="31"
+                                                Margin="5 0 0 0" Padding="0 6 0 0"
+                                                Content="↺" Command="{Binding ContrastResetToDefaultButtonClicked}"/>
+                                </Grid>
+                        </StackPanel>
+                </StackPanel>
+                <DockPanel Height="30">
+                        <Button Classes="Custom" Width="30"  Command="{Binding RotateMinus90}" Margin="0 0 10 15"> ↺ </Button>
+                        <Button Classes="Custom" Width="30" Command="{Binding Rotate90}"> ↻ </Button>
+                </DockPanel>
+                <DockPanel>
+                        <Button Classes="Custom" Click="CloseButton_OnClick" Command="{Binding CloseButtonClicked}"> Отмена </Button>
+                        <Button Classes="Custom" Width="120" Click="AICButton_OnClick"> Окрасить (AI) </Button>
+                        <Button Classes="Custom" Width="90" Click="FilterButton_OnClick"> Фильтры </Button>
+                        <Button Classes="Custom" Width="90" Command="{Binding ResetButtonClicked}"> Сброс </Button>
+                        <Button Classes="Custom" Click="SaveButton_OnClick" HorizontalAlignment="Right" Margin="0,0,5,15" > Сохранить </Button>
+                </DockPanel>
+        </StackPanel>
+</Window>

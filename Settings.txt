@@ -1,0 +1,9 @@
+MinWidthPhoto=100
+MinHeightPhoto=100
+WhiteSensivity=240
+UseGpu=False
+FileNamePattern=image
+DefaultPath=C:\Users\RKKA\Desktop
+AutoRotate=False
+DefaultFileExtension=png
+IsLight=True

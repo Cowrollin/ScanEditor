@@ -1,0 +1,26 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="using:ScanEditor.ViewModels"
+        mc:Ignorable="d"
+        x:Class="ScanEditor.Views.ImageFilters"
+        Title="ImageFilters"
+        Icon="/Assets/LogoScanEditor.ico"
+        Width="420" Height="90"
+        Background="{DynamicResource BaseColor}"
+        CanResize="False"
+        WindowStartupLocation="CenterScreen"
+        >
+    
+        <Window.Styles>
+                <StyleInclude Source="/Styles/BaseStyle.axaml"></StyleInclude>
+        </Window.Styles>
+        
+        <StackPanel Orientation="Horizontal" Margin="15">
+                <Button Classes="Custom" Width="120" Click="DenoiseFilterButton_OnClick" > Убрать шум </Button>
+                <Button Classes="Custom" Width="120" Click="SharpenFilterButton_OnClick"> Резкость </Button>
+                <Button Classes="Custom" Width="120" Click="BlurFilterButton_OnClick"> Размытие </Button>
+        </StackPanel>
+        
+</Window>

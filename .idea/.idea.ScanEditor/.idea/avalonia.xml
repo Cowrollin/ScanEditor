@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="App.axaml" value="ScanEditor.csproj" />
+        <entry key="Styles/BaseStyle.axaml" value="ScanEditor.csproj" />
+        <entry key="Styles/Dark.axaml" value="ScanEditor.csproj" />
+        <entry key="Styles/Light.axaml" value="ScanEditor.csproj" />
+        <entry key="Views/Filters.axaml" value="ScanEditor.csproj" />
+        <entry key="Views/ImageFilters.axaml" value="ScanEditor.csproj" />
+        <entry key="Views/ImageRedactor.axaml" value="ScanEditor.csproj" />
+        <entry key="Views/MainWindow.axaml" value="ScanEditor.csproj" />
+        <entry key="Views/Settings.axaml" value="ScanEditor.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

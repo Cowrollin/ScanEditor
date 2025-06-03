@@ -1,0 +1,102 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="using:ScanEditor.ViewModels"
+        mc:Ignorable="d"
+        x:Class="ScanEditor.Views.Settings"
+        x:DataType="vm:SettingsViewModel"
+        Title="Settings"
+        Icon="/Assets/LogoScanEditor.ico"
+        Width="350" Height="550"
+        Background="{DynamicResource BaseColor}"
+        CanResize="False">
+    
+        <Window.Styles>
+                <StyleInclude Source="/Styles/BaseStyle.axaml"></StyleInclude>
+                <Style Selector="TextBox">
+                        <Setter Property="Width" Value="40"/>
+                        <Setter Property="Height" Value="30"/>
+                        <Setter Property="HorizontalContentAlignment" Value="Right"/>
+                        <Setter Property="Margin" Value="0,0,0,0"/>
+                </Style>
+                <Style Selector="NumericUpDown">
+                        <Setter Property="Width" Value="50"/>
+                        <Setter Property="Height" Value="30"/>
+                        <Setter Property="HorizontalContentAlignment" Value="Right"/>
+                        <Setter Property="VerticalContentAlignment" Value="Center"/>
+                        <Setter Property="ShowButtonSpinner" Value="False"/>
+                </Style>
+        </Window.Styles>
+        
+        <Grid>
+                <StackPanel Margin="15">
+                        
+                        <TextBlock Classes="Custom" Text="Настройки поиска" FontWeight="Bold"/>
+                        <Border Classes="Custom" Padding="10" Margin="0,0,0,20">
+                                <Grid RowDefinitions="*,*,*">
+                                        <Grid Grid.Row="0" ColumnDefinitions="130,*,*" Margin="0 0 0 10">
+                                                <TextBlock Grid.Column="0" Classes="Custom" FontSize="16" Text="Минимальный " VerticalAlignment="Top"/>
+                                                <TextBlock Grid.Column="0" Margin="0 0 0 -30" Classes="Custom" FontSize="16" Text="размер фото" VerticalAlignment="Center"/>
+                                                <NumericUpDown Grid.Column="1" Classes="Custom" Value="{Binding MinWidthPhoto}" ValueChanged="OnNumericUpDownValueChanged" Minimum="0" Maximum="99999"/>
+                                                <TextBlock Grid.Column="2" Classes="Custom" FontSize="20" VerticalAlignment="Top">x</TextBlock>
+                                                <NumericUpDown Grid.Column="2" Classes="Custom" Value="{Binding MinHeightPhoto}" ValueChanged="OnNumericUpDownValueChanged" Minimum="0" Maximum="99999" HorizontalAlignment="Right"/>
+                                        </Grid>
+                                        
+                                        <Grid Grid.Row="1" ColumnDefinitions="*,*">
+                                                <TextBlock Grid.Column="0" Classes="Custom" FontSize="16" VerticalAlignment="Center" Text="Диапазон фона"/>
+                                                <Slider Grid.Column="1" Minimum="0" Maximum="255" 
+                                                        Value="{Binding WhiteSensitivity, Mode=TwoWay}"
+                                                        HorizontalAlignment="Stretch" VerticalAlignment="Center"/>
+                                                <TextBlock Grid.Column="1" Classes="Custom" Text="{Binding WhiteLineThresholdText}" 
+                                                           HorizontalAlignment="Right" Margin="0,0,5,0"/>
+                                        </Grid>
+                                        <Grid Grid.Row="2" ColumnDefinitions="*,*">
+                                                <TextBlock Grid.Column="0" Classes="Custom" Text="Авто поворот" FontSize="16" VerticalAlignment="Center"/>
+                                                <CheckBox Grid.Column="1" Classes="Custom" IsChecked="{Binding AutoRotate, Mode=TwoWay}" HorizontalAlignment="Right"/>
+                                        </Grid>
+                                </Grid>
+                        </Border>
+                        
+                        <TextBlock Classes="Custom" Text="Настройки нейросети" FontWeight="Bold"/>
+                        <Border Classes="Custom" Padding="10" Margin="0,0,0,20">
+                                <Grid ColumnDefinitions="160,*">
+                                        <TextBlock Grid.Column="0" Classes="Custom" FontSize="16" Text="Использовать GPU" VerticalAlignment="Center"/>
+                                        <CheckBox Grid.Column="1" IsChecked="{Binding UseGpu, Mode=TwoWay}" HorizontalAlignment="Right"/>
+                                </Grid>
+                        </Border>
+                        
+                        <TextBlock Classes="Custom" Text="Настройки сохранения" FontWeight="Bold"/>
+                        <Border Classes="Custom" Padding="10" Margin="0,0,0,15">
+                                <Grid RowDefinitions="*,*,*">
+                                        <Grid Grid.Row="0" ColumnDefinitions="*,*" Margin="0 0 0 10">
+                                                <TextBlock Grid.Column="0" Classes="Custom" FontSize="16" Text="Название файла" VerticalAlignment="Center"/>
+                                                <TextBox Grid.Column="1" Classes="Custom" Width="100" Text="{Binding FileNamePattern, Mode=TwoWay}" HorizontalAlignment="Right"/>
+                                        </Grid>
+                                        <Grid Grid.Row="1" RowDefinitions="*,*" ColumnDefinitions="*,*,*" Margin="0 0 0 10">
+                                                <TextBlock Grid.Row="0" Grid.Column="0" Classes="Custom" FontSize="16" Text="Директория" VerticalAlignment="Center"/>
+                                                <TextBlock Grid.Row="1" Grid.Column="0" Classes="Custom" ClipToBounds="False" Text="{Binding DefaultPath}" Margin="0 5 0 0" HorizontalAlignment="Right"/>
+                                                <Button Grid.Row="0" Grid.Column="2" Classes="Custom" Width="100" Command="{Binding SelectDirectory}" HorizontalAlignment="Right" Margin="0">Выбрать...</Button>
+                                        </Grid>
+                                        <Grid Grid.Row="2" ColumnDefinitions="*,*" >
+                                                <TextBlock Grid.Column="0" Classes="Custom" FontSize="16" Text="Расширение" VerticalAlignment="Center"/>
+                                                <ComboBox Grid.Column="1" Classes="Custom" ItemsSource="{Binding Extensions}" SelectedItem="{Binding DefaultFileExtension, Mode=TwoWay}"  Width="100" HorizontalAlignment="Right"/>
+                                        </Grid>
+                                </Grid>
+                        </Border>
+                        
+                </StackPanel>
+                <Grid VerticalAlignment="Bottom" Margin="15 0 15 0" ColumnDefinitions="95,35,85,*">
+                        <Button Grid.Column="0" HorizontalAlignment="Left" Click="CancelButtonClick" Margin="0,0,0,15"
+                                Classes="Custom" Width="90"> Отмена </Button>
+                        <Button Grid.Column="1" Margin="0,0,0,15" HorizontalAlignment="Center"
+                                Classes="Custom" Width="30" Click="ChangeTheme_ButtonOnClick">
+                                <Image Source="/Assets/theme.ico"/>
+                        </Button>
+                        <Button Grid.Column="2" Margin="0,0,0,15" HorizontalAlignment="Right"
+                                Classes="Custom" Width="80" Click="ResetButtonClick" Content="Сброс"/>
+                        <Button Grid.Column="3" HorizontalAlignment="Right" Margin="0,0,0,15"
+                                Classes="Custom" Width="100" Click="ApplyButtonClick"> Применить </Button>
+                </Grid>
+        </Grid>
+</Window>

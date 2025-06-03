@@ -1,0 +1,398 @@
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ScanEditor.exe
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ScanEditor.deps.json
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ScanEditor.runtimeconfig.json
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ScanEditor.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ScanEditor.pdb
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Base.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Controls.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Dialogs.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Markup.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Metal.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.MicroCom.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.OpenGL.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Desktop.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Native.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.ReactiveUI.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Skia.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Win32.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.X11.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\DynamicData.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\HarfBuzzSharp.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\MicroCom.Runtime.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ReactiveUI.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\SkiaSharp.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Splat.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\System.IO.Pipelines.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\System.Reactive.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ScanEditor.csproj.AssemblyReference.cache
+O:\Albert\University\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+O:\Albert\University\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\Avalonia\resources
+O:\Albert\University\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ScanEditor.GeneratedMSBuildEditorConfig.editorconfig
+O:\Albert\University\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ScanEditor.AssemblyInfoInputs.cache
+O:\Albert\University\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ScanEditor.AssemblyInfo.cs
+O:\Albert\University\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ScanEditor.csproj.CoreCompileInputs.cache
+O:\Albert\University\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\Avalonia\references
+O:\Albert\University\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\Avalonia\original.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\Avalonia\original.pdb
+O:\Albert\University\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\Avalonia\original.ref.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\refint\ScanEditor.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ScanEditor.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ScanEditor.pdb
+O:\Albert\University\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ScanEditor.csproj.Up2Date
+O:\Albert\University\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ScanEditor.genruntimeconfig.cache
+O:\Albert\University\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ref\ScanEditor.dll
+O:\Albert\University\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\CommunityToolkit.Mvvm.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ScanEditor.exe
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ScanEditor.deps.json
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ScanEditor.runtimeconfig.json
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ScanEditor.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ScanEditor.pdb
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Base.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Native.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.ReactiveUI.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.X11.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\CommunityToolkit.Mvvm.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\DynamicData.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ReactiveUI.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\SkiaSharp.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Splat.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\System.Reactive.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ScanEditor.csproj.AssemblyReference.cache
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\Avalonia\resources
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ScanEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ScanEditor.AssemblyInfoInputs.cache
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ScanEditor.AssemblyInfo.cs
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ScanEditor.csproj.CoreCompileInputs.cache
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\Avalonia\references
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\Avalonia\original.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\Avalonia\original.pdb
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\Avalonia\original.ref.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\refint\ScanEditor.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ScanEditor.dll
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ScanEditor.pdb
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ScanEditor.csproj.Up2Date
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ScanEditor.genruntimeconfig.cache
+C:\MOVE TO NEW SSD\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ref\ScanEditor.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ScanEditor.exe
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ScanEditor.deps.json
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ScanEditor.runtimeconfig.json
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ScanEditor.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ScanEditor.pdb
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Base.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Controls.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Dialogs.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Markup.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Metal.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.MicroCom.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.OpenGL.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Desktop.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Native.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.ReactiveUI.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Skia.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Win32.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.X11.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\CommunityToolkit.Mvvm.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\DynamicData.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\HarfBuzzSharp.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\MicroCom.Runtime.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\OpenCvSharp.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ReactiveUI.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\SkiaSharp.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Splat.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\System.Reactive.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ScanEditor.csproj.AssemblyReference.cache
+D:\Universitet\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+D:\Universitet\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\Avalonia\resources
+D:\Universitet\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ScanEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universitet\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ScanEditor.AssemblyInfoInputs.cache
+D:\Universitet\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ScanEditor.AssemblyInfo.cs
+D:\Universitet\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ScanEditor.csproj.CoreCompileInputs.cache
+D:\Universitet\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\Avalonia\references
+D:\Universitet\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\Avalonia\original.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\Avalonia\original.pdb
+D:\Universitet\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\Avalonia\original.ref.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\refint\ScanEditor.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ScanEditor.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ScanEditor.pdb
+D:\Universitet\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ScanEditor.csproj.Up2Date
+D:\Universitet\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ScanEditor.genruntimeconfig.cache
+D:\Universitet\4KursDiplom\App\ScanEditor\obj\Debug\net8.0\ref\ScanEditor.dll
+D:\Universitet\4KursDiplom\App\ScanEditor\bin\Debug\net8.0\Avalonia.Labs.Gif.dll

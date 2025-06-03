@@ -1,0 +1,13 @@
+<ResourceDictionary xmlns="https://github.com/avaloniaui"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+   
+    <SolidColorBrush Color="#f5f6f7" x:Key="BaseColor" /> 
+    <SolidColorBrush Color="Black" x:Key="TextColor" /> 
+    <SolidColorBrush Color="Black" x:Key="ButtonTextColor" /> 
+    
+    <SolidColorBrush Color="#75a59e" x:Key="BorderColor" />
+    <SolidColorBrush Color="#2a9d58" x:Key="ButtonBaseColor" />
+    <SolidColorBrush Color="#317c53" x:Key="ButtonFocusColor" /> 
+    <SolidColorBrush Color="#317c53" x:Key="ButtonPressedColor" />
+    
+</ResourceDictionary>

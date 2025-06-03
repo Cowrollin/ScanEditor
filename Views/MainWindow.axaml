@@ -1,0 +1,105 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:ScanEditor.ViewModels"
+        xmlns:labs="clr-namespace:Avalonia.Labs.Gif;assembly=Avalonia.Labs.Gif"
+        x:Class="ScanEditor.Views.MainWindow"
+        x:DataType="vm:MainWindowViewModel"
+        Icon="/Assets/LogoScanEditor.ico"
+        Title="ScanEditor"
+        Width="550" Height="600"
+        Background="{DynamicResource BaseColor}"
+        WindowStartupLocation="CenterScreen"
+        CanResize="False">
+
+    <Window.Styles>
+        <StyleInclude Source="/Styles/BaseStyle.axaml"></StyleInclude>
+    </Window.Styles>
+    
+    <StackPanel Margin="15">
+        <Grid ColumnDefinitions="*,*" RowDefinitions="*,*">
+            <!--Input Image-->
+            <StackPanel Name="InputImage" Grid.Column="0" 
+                        Width="327" Height="466"
+                        HorizontalAlignment="Left" Margin="0 10 0 0">
+                <Border Classes="Custom" ClipToBounds="True"
+                        Width="327" Height="466" >
+                    <Image Source="{Binding BitmapImage}" Stretch="Uniform" 
+                           PointerWheelChanged="Image_OnPointerWheelChanged" PointerPressed="Image_OnPointerPressed"
+                           PointerMoved="Image_OnPointerMoved" PointerReleased="Image_OnPointerReleased">
+                        <Image.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform ScaleX="{Binding ZoomLevel}" ScaleY="{Binding ZoomLevel}"/>
+                                <TranslateTransform X="{Binding OffsetX}" Y="{Binding OffsetY}"/>
+                            </TransformGroup>
+                        </Image.RenderTransform>
+                    </Image>
+                </Border>
+                <TextBlock Text="Входная фотография" Margin="0 -485 0 0" FontSize="16" Classes="Custom"/>
+                <StackPanel IsVisible="{Binding AddButtonVisible}">
+                    <Button Classes="Custom" Width="40" Height="40" Margin="144 -462 0 0" Padding="-9" Command="{Binding AddScanButtonClicked}">
+                        <TextBlock Text="+" FontSize="30" Classes="Custom"
+                                   HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                   Foreground="#444444" Margin="0 -4 0 0">
+                        </TextBlock>
+                    </Button>
+                    <TextBlock Classes="Custom" Text="Открыть" FontSize="16" Margin="0 -200 0 0" HorizontalAlignment="Center"/>
+                </StackPanel>
+                <labs:GifImage Source="avares://ScanEditor/Assets/load.gif" Width="200" Height="200" Margin="0 -450 0 0" IsVisible="{Binding IsLoad}"/>
+            </StackPanel>
+            
+            <!--Output Images-->
+            <StackPanel Name="OutputImages"
+                        Width="150" Height="466"
+                        HorizontalAlignment="Right" Margin="0 10 0 0"
+                        Grid.Row="0" Grid.Column="1">
+                
+                <Border Classes="Custom"
+                        Width="150" Height="466">
+                    <ScrollViewer Height="458">
+                        <ItemsControl ItemsSource="{Binding OutputImages}">
+                            <ItemsControl.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <WrapPanel>
+                                        <Border Margin="0 0 0 10">
+                                        </Border>
+                                    </WrapPanel>
+                                </ItemsPanelTemplate>
+                            </ItemsControl.ItemsPanel>
+                            <ItemsControl.ItemTemplate>
+                                <DataTemplate>
+                                    <Button Width="150" Height="110" Background="Transparent" Padding="0" Margin="0 0 0 10" BorderThickness="0" Command="{Binding $parent[ItemsControl].((vm:MainWindowViewModel)DataContext).OpenImageRedactorButtonClicked}" CommandParameter="{Binding }">
+                                        <Grid>
+                                            <Image Source="{Binding BaseImage}" Stretch="Uniform"/>
+                                            <Button Content="x" Width="30" Classes="Custom" Height="30" Command="{Binding $parent[ItemsControl].((vm:MainWindowViewModel)DataContext).RemoveImageButtonClicked}" CommandParameter="{Binding }" 
+                                                    Margin="-5 -90 0 0" CornerRadius="25" BorderThickness="0"
+                                                    VerticalContentAlignment="Top" HorizontalContentAlignment="Center" Foreground="Black"/>
+                                        </Grid>
+                                    </Button>
+                                </DataTemplate>
+                            </ItemsControl.ItemTemplate>
+                        </ItemsControl>
+                    </ScrollViewer>
+                </Border>
+                <TextBlock Text="Найденные фото" Margin="0 -485 0 0" FontSize="16" Classes="Custom"/>
+            </StackPanel>
+            
+            <!--Buttons-->
+            <StackPanel Name="Buttons" Orientation="Horizontal" 
+                        Grid.Column="0" Grid.Row="1"
+                        Margin="0,15,0,0">
+                <Grid ColumnDefinitions="*,*,140,*" RowDefinitions="*,*">
+                    <Button Grid.Row="0" Grid.Column="0" Width="115" Command="{Binding AddScanButtonClicked}"
+                            Classes="Custom"> Открыть фото </Button>
+                    <Button Grid.Row="0" Grid.Column="1" Command="{Binding FindBorderButtonClicked}" Width="80"
+                            Classes="Custom"> Обрезка </Button>
+                    <Button Grid.Row="0" Grid.Column="2" Width="100" Click="SettingsButtonClicked"
+                            Classes="Custom"> Настройки </Button>
+                    <Button Grid.Row="0" Grid.Column="3" Width="150" Command="{Binding SaveButtonClicked}"
+                            Classes="Custom"> Сохранить </Button>
+                    <Button Grid.Row="1" Grid.Column="3" Width="150" Command="{Binding SaveAsButtonClicked}"
+                            Classes="Custom"> Сохранить как... </Button>
+                </Grid>
+            </StackPanel>
+        </Grid>
+    </StackPanel>
+</Window>
