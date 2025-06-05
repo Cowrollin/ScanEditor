@@ -1,1 +1,13 @@
 /AIColorization/AIColorize.exe
+/AIColorization/AIC_eccv16.png
+/AIColorization/AIC_siggraph17.png
+/AIColorization/input.jpg
+/Settings.txt
+**/bin/
+**/obj/
+.vs/
+*.user
+*.cache
+*.suo
+*.dll
+*.exe

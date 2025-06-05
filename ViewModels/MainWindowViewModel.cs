@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.IO;
+using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Input;
 using Avalonia;
@@ -168,11 +169,12 @@ public partial class MainWindowViewModel : ObservableObject
 
     public async void SaveAsButtonClicked()
     {
+        var filters = SettingsViewModel.Instance.Filters.OrderByDescending(f => f.Extensions.Contains(SettingsViewModel.Instance.DefaultFileExtension)).ToList();
         var saveFileDialog = new SaveFileDialog
         {
             InitialFileName = SettingsViewModel.Instance.FileNamePattern,
             DefaultExtension = SettingsViewModel.Instance.DefaultFileExtension,
-            Filters = SettingsViewModel.Instance.Filters
+            Filters = filters
         };
         if (saveFileDialog == null) throw new ArgumentNullException(nameof(saveFileDialog));
         try
@@ -187,7 +189,7 @@ public partial class MainWindowViewModel : ObservableObject
                         item.SaveImage(filepath);
                     }
                     OutputImages.Clear();
-                    _directorySavePath = filepath;
+                    _directorySavePath = Path.GetDirectoryName(filepath);
                 }
             }
             else if (_imageScan != null && _isChanges)
@@ -196,7 +198,7 @@ public partial class MainWindowViewModel : ObservableObject
                 if (!string.IsNullOrEmpty(filepath))
                 {
                     _imageScan.SaveImage(filepath);
-                    _directorySavePath = filepath;
+                    _directorySavePath = Path.GetDirectoryName(filepath);
                 }
                 _imageScan = null;
                 Update();
